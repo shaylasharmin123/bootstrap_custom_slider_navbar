@@ -1,2 +1,2 @@
 # bootstrap_custom_slider_navbar
-bootstrap_custom_slider_navbar codes are here.
+https://shaylasharmin123.github.io/bootstrap_custom_slider_navbar/
