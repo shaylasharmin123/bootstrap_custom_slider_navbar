@@ -1,0 +1,60 @@
+.c-prev{
+	left: 89% !important;
+	bottom: 5% !important;
+}
+.c-next{
+	right: 2% !important;
+	bottom: 5% !important;
+}
+.c-prev , .c-next{
+	top: 85%;
+	width: 5%;
+	opacity: 2.5!important;
+}
+.c_ind {
+    bottom: 80%;
+    left: -79%;
+}
+.c_ind [data-bs-target] {
+	padding: 3px;
+    width: 15px;
+    height: 15px;
+}
+.box{
+	width: 200px;
+	height: 200px;
+	background-color: transparent;
+
+}
+.banner2{
+	background-image: url(../images/four.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+.slider{
+	padding: 70px;
+	background-color: rgba(1, 1, 1, .7);
+	color: white;
+
+}
+.slider h1{
+	margin-top: 30px;
+	font-size: 30px;
+	margin-bottom: 30px;
+}
+.slider p{
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+.slider button{
+	margin-bottom: 70px;
+}
+.c_indica{
+	bottom: 40px !important;
+}
+.c_indica [data-bs-target]{
+	width: 15px;
+	height: 15px;
+	border-radius: 50%;
+}
